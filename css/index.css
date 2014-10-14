@@ -1,0 +1,72 @@
+html
+{
+	background-color: #2674AF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 645px;
+	min-height: 528.8563068097096px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 51px 380px 20.143693190290378px 225px;
+}
+
+#u2860
+{
+	z-index: 7;
+	width: 258px;
+	min-height: 294px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#pu2551-4
+{
+	width: 0.01px;
+	margin-left: 128px;
+	margin-top: 31px;
+	position: relative;
+}
+
+#u2551-4
+{
+	z-index: 2;
+	position: relative;
+	width: 501px;
+	margin-right: -501px;
+	left: 16px;
+}
+
+#u2551-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u2552
+{
+	z-index: 6;
+	width: 225px;
+	height: 62px;
+	position: relative;
+	margin-right: -225px;
+}
+
+.ie #u2552
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	padding-top: 24px;
+	padding-bottom: 26px;
+}
+
